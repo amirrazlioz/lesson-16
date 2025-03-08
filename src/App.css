@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.text-size-adjust {
+  text-size-adjust: auto;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
